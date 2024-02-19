@@ -1,7 +1,10 @@
 # Inspiring IoT
 
 - https://bboldi.com
+- https://github.com/bboldi
 - https://www.youtube.com/@hellomakers
+- https://x.com/bboldi
+- bbednarik@gmail.com
 
 ## European Installtion Bus
 
