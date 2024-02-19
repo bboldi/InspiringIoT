@@ -1,5 +1,7 @@
 # Inspiring IoT
 
+FEEDBACK: https://forms.gle/VgqDk3BBa31W1faR8 ( much appreciated :) )
+
 - https://bboldi.com
 - https://github.com/bboldi
 - https://www.youtube.com/@hellomakers
