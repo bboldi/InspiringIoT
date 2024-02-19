@@ -1,6 +1,8 @@
-# Inspiring IoT
 
-FEEDBACK: https://forms.gle/VgqDk3BBa31W1faR8 ( much appreciated :) )
+Did you watch my presentation? __Please give feedback__:
+https://forms.gle/VgqDk3BBa31W1faR8
+
+# Inspiring IoT
 
 - https://bboldi.com
 - https://github.com/bboldi
