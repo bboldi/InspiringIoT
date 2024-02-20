@@ -52,4 +52,25 @@ https://forms.gle/VgqDk3BBa31W1faR8
 - https://www.home-assistant.io/
 - https://www.domoticz.com/
 
+## Tutorials
 
+Raspberry Pi IoT Server Tutorial: InfluxDB, MQTT, Grafana, Node-RED & Docker
+https://www.youtube.com/watch?v=_DO2wHI6JWQ
+
+MQTT, Node-RED dashboard with InfluxDB and Grafana graph in AWS [HowTo]
+https://www.thethingsnetwork.org/forum/t/mqtt-node-red-dashboard-with-influxdb-and-grafana-graph-in-aws-howto/49854
+
+Recipe: from MQTT to InfluxDB via Node-Red
+https://gist.github.com/Paraphraser/c9db25d131dd4c09848ffb353b69038f
+
+Installing and Running Node-RED on a Windows PC
+https://www.brainboxes.com/faq/installing-and-running-node-red-on-a-windows-pc
+
+InfluxDB installation
+https://docs.influxdata.com/influxdb/v2/install/
+
+Grafana installation
+https://grafana.com/docs/grafana/latest/setup-grafana/installation/
+
+[Tutorial] How to Set Up a Mosquitto MQTT Broker Securely— Using Client Certificates
+https://medium.com/gravio-edge-iot-platform/how-to-set-up-a-mosquitto-mqtt-broker-securely-using-client-certificates-82b2aaaef9c8
