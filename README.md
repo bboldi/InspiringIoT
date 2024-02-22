@@ -2,6 +2,9 @@
 Did you watch my presentation? __Please give feedback__:
 https://forms.gle/VgqDk3BBa31W1faR8
 
+Presentation
+https://github.com/bboldi/InspiringIoT/blob/main/presentation.pptx
+
 # Inspiring IoT
 
 - https://bboldi.com
